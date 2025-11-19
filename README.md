@@ -1,6 +1,10 @@
-# RUT Formatter PCF Control
+## Summary (English)
 
-Component framework control that formats Chilean RUT values inside single line of text columns, validates the verification digit, and emits a clean (unformatted) value together with a boolean flag you can bind to a Two Options field.
+RUT Formatter PCF Control formats Chilean RUT strings inside Dataverse text columns, validates the dígito verificador, and outputs both the clean numeric value and a bound boolean flag so forms can enforce server-side rules. 
+
+## Resumen (Español)
+
+El control PCF RUT Formatter formatea los RUT chilenos en columnas de texto de Dataverse, valida el dígito verificador y expone tanto el valor limpio como un indicador booleano para aplicar reglas en los formularios. 
 
 ## Prerequisites
 
