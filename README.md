@@ -6,6 +6,12 @@ RUT Formatter PCF Control formats Chilean RUT strings inside Dataverse text colu
 
 El control PCF RUT Formatter formatea los RUT chilenos en columnas de texto de Dataverse, valida el dígito verificador y expone tanto el valor limpio como un indicador booleano para aplicar reglas en los formularios. 
 
+<img width="705" height="421" alt="image" src="https://github.com/user-attachments/assets/e1fae83f-0292-4006-9b50-f677ea3169bb" />
+
+<img width="662" height="407" alt="image" src="https://github.com/user-attachments/assets/13eb5bef-328c-47f2-805e-5f36c169e2cf" />
+
+
+
 ## Prerequisites
 
 - Node.js 18+ and npm (for building/running the PCF project)
